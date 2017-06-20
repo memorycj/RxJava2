@@ -17,7 +17,7 @@ import wn.rx20.R;
 import wn.rx20.retrofit.api.GankApi;
 
 public class MainActivity extends AppCompatActivity {
-    AsyncTask
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
